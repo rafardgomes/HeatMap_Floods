@@ -18,3 +18,5 @@ This project utilizes Python and the Folium library to map the recurrence of hyd
 4. **Visualization:**
    * **HeatMap:** To visualize density and susceptibility trends.
    * **MarkerCluster:** To provide interactive count and exact location of each Civil Defense record.
+
+Explore the interactive map: https://rafardgomes.github.io/HeatMap_Floods_Waterlogging/
